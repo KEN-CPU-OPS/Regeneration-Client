@@ -1,6 +1,7 @@
 # Regeneration Client (LiquidBounce Custom Build)
 Developed by potatolvgist with love
-
+##Download source code
+The source code is in the release tag to download.
 ## License of Using Our Client
 This project is subject to the [GNU General Public License v3.0](LICENSE). This does only apply for source code located directly in this clean repository. During the development and compilation process, additional source code may be used to which we have obtained no rights. Such code is not covered by the GPL license.
 
